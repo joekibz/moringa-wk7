@@ -1,8 +1,8 @@
 # moringa-wk7
-Building data pipelines 
+<h1>Building data pipelines</h1> 
 
 
-###Week 7 - Tuesday project - Data pipelines with python and postgreSQL
+<h3>Week 7 - Tuesday project - Data pipelines with python and postgreSQL</h3>
 
 Steps:
 1- Data was extracted from csv files shared by customer
