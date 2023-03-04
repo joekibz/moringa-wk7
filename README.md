@@ -8,6 +8,8 @@
 <br>3- Aggregation was done to explore data characteristics. E.g: calculation of mean values
 <br>4- Cleaned data was exported to csv file on local disk for further analysis
 
+URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_Pipelines_with_Python.ipynb
+
 <h3>Week 7 - Tuesday project - Data pipelines with python and postgreSQL</h3>
 <br>Steps:
 <br>1- Data was extracted from csv files shared by customer
