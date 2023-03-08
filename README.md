@@ -18,3 +18,12 @@ URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_Pipeli
 <br>4- Cleaned data was uploaded to postgreSQL database hosted on google cloud
 
 URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_pipelines_with_Python_and_PostgreSQL.ipynb
+
+<h3>Week 7 - Wednesday project - Data pipeline with python and mongodb </h3>
+<br>Steps:
+<br>1- Data was extracted from csv files shared by customer
+<br>2- Data transformation and enrichment was done. E.g: data type conversion, adding duration_minutes column
+<br>3- Data loading functions were implemented - without compression | with compression | aggregation
+<br>4- Data was loaded to mongodb collections hosted on mongodb.com 
+
+URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_pipelines_with_Python_and_PostgreSQL.ipynb
