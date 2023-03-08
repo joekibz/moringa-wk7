@@ -26,4 +26,4 @@ URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_pipeli
 <br>3- Data loading functions were implemented - without compression | with compression | aggregation
 <br>4- Data was loaded to mongodb collections hosted on mongodb.com 
 
-URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_pipelines_with_Python_and_PostgreSQL.ipynb
+URL: https://github.com/joekibz/moringa-wk7/blob/main/%5BJThiongo%5D_Data_pipelines_with_Python_and_MongoDB.ipynb
